@@ -1,6 +1,6 @@
 
-Education: FED <br />
-Location: Europe <br />
+Front-End Developer <br />
+Europe <br />
 
 https://dev.to/hannaha88
 
